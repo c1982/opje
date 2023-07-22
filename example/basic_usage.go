@@ -1,9 +1,3 @@
-# opje
-Golang Service Locator Thingy
-
-## Usage
-
-```go
 package main
 
 import (
@@ -49,4 +43,3 @@ func main() {
 		fmt.Println("Logged in ✌️")
 	}
 }
-```
